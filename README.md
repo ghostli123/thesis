@@ -1,6 +1,6 @@
-# University of Minnesota PhD Thesis Template
+# University of Minnesota PhD Thesis
 
-This repository contains an updated version of the UMN PhD Thesis Template.
+This repository contains an updated version of the UMN PhD Thesis.
 
 ## Prerequisites
 

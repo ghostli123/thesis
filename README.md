@@ -14,7 +14,7 @@ and open-source software (universe)'", or by running the code below:
 sudo add-apt-repository "deb http://archive.ubuntu.com/ubuntu $(lsb_release -sc) universe"
 ```
 
-You can then install the packages needed to compile the template:
+You can then install the packages needed to compile the project:
 
 ```bash
 # Install the required packages
